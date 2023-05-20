@@ -27,7 +27,12 @@
   display: none;
 }
 #three {
-  padding: 20px;
+  padding-top: 30px;
   background: black;
   color: white;
 }
+
+#three p {
+  padding: 20px 30px;
+}
+
