@@ -27,6 +27,7 @@
   display: none;
 }
 #three {
+  padding: 20px;
   background: black;
   color: white;
 }
