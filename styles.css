@@ -8,6 +8,10 @@
   text-align: center;
 }
 
+:root {
+ --my-brown: rgb(56, 44, 12);
+}
+
 #one {
   background: black;
   color: white;
@@ -23,6 +27,6 @@
   display: none;
 }
 #three {
-  background: rgb(56, 44, 12);
-  color: wheat;
+  background: black;
+  color: white;
 }
